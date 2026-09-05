@@ -1,7 +1,0 @@
-herbie-data
-pandas
-xarray
-cfgrib
-eccodes
-scikit-learn
-duckdb
