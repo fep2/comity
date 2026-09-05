@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: hrrr-ingest
+Version: 0.1.0
+Requires-Dist: herbie-data
+Requires-Dist: pandas
+Requires-Dist: xarray
+Requires-Dist: cfgrib
+Requires-Dist: eccodes
+Requires-Dist: scikit-learn
+Requires-Dist: duckdb
+Dynamic: requires-dist

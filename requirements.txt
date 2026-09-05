@@ -1,0 +1,8 @@
+herbie-data==2026.3.0
+pandas==3.0.5
+xarray==2026.7.0
+cfgrib==0.9.15.1
+eccodes==2.48.0
+scikit-learn==1.9.0
+jupyter==1.1.1
+duckdb==1.5.5

@@ -1,0 +1,68 @@
+[
+  {
+    "variable_name": "surface_pressure",
+    "description": "Surface pressure",
+    "short_hand": "sp",
+    "index_locator": ":PRES:surface"
+  },
+  {
+    "variable_name": "surface_roughness",
+    "description": "Surface roughness",
+    "short_hand": "fsr",
+    "index_locator": ":SFCR:surface"
+  },
+  {
+    "variable_name": "visible_beam_downward_solar_flux",
+    "description": "Visible beam downward solar flux",
+    "short_hand": "vbdsf",
+    "index_locator": ":VBDSF:surface"
+  },
+  {
+    "variable_name": "visible_diffuse_downward_solar_flux",
+    "description": "Visible diffuse downward solar flux",
+    "short_hand": "vddsf",
+    "index_locator": ":VDDSF:surface"
+  },
+  {
+    "variable_name": "temperature_2m",
+    "description": "Temperature at 2m above ground",
+    "short_hand": "t2m",
+    "index_locator": ":TMP:2 m above ground"
+  },
+  {
+    "variable_name": "dewpoint_2m",
+    "description": "Dew point temperature at 2m above ground",
+    "short_hand": "d2m",
+    "index_locator": ":DPT:2 m above ground"
+  },
+  {
+    "variable_name": "relative_humidity_2m",
+    "description": "Relative humidity at 2m above ground",
+    "short_hand": "r2",
+    "index_locator": ":RH:2 m above ground"
+  },
+  {
+    "variable_name": "u_component_wind_10m",
+    "description": "U-Component of wind at 10m above ground",
+    "short_hand": "u10",
+    "index_locator": ":UGRD:10 m above ground"
+  },
+  {
+    "variable_name": "v_component_wind_10m",
+    "description": "V-Component of wind at 10m above ground",
+    "short_hand": "v10",
+    "index_locator": ":VGRD:10 m above ground"
+  },
+  {
+    "variable_name": "u_component_wind_80m",
+    "description": "U-Component of wind at 80m above ground",
+    "short_hand": "u",
+    "index_locator": ":UGRD:80 m above ground"
+  },
+  {
+    "variable_name": "v_component_wind_80m",
+    "description": "V-Component of wind at 80m above ground",
+    "short_hand": "v",
+    "index_locator": ":VGRD:80 m above ground"
+  }
+]

@@ -1,0 +1,3 @@
+[console_scripts]
+hrrr-ingest = cli:main
+tree_setup = get_nei_tree:generate_hrrr_cache
